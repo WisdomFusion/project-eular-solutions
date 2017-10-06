@@ -8,7 +8,7 @@ Years Ago, I haved worked out some of starting problems, about 100+, however, I 
 
 This time, I attemp to solve each of the problems from different aspects and using different programming languages, besides translating them to Chinese. Some the programming languages I listed as follows are my favorites, and dive deep into them, even use them in real world projects. While others I had no further or deeper research on them. However, solutions for the problems would work perfectly well.
 
-* [C/C++](./c_cpp/)
+* [C++](./cpp/)
 * [Common Lisp](./commonlisp/)
 * [C#](./csharp/)
 * [Elixir](./elixir/)
@@ -26,5 +26,3 @@ This time, I attemp to solve each of the problems from different aspects and usi
 * [Scheme](./scheme/)
 * [Swift](./swift/)
 * [Visual Basic .NET](./vb.net/)
-
-
