@@ -12,6 +12,7 @@ This time, I attemp to solve each of the problems from different aspects and usi
 * [Common Lisp](./commonlisp/)
 * [C#](./csharp/)
 * [Elixir](./elixir/)
+* [F#](./fsharp/)
 * [Go](./go/)
 * [Haskell](./haskell/)
 * [Lua](./lua/)
